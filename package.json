@@ -1,0 +1,23 @@
+{
+  "name": "rait_internship",
+  "version": "1.0.0",
+  "description": "INTERNSHIP",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.jsn",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "internship",
+    "2023",
+    "rait",
+    "mern",
+    "node",
+    "js"
+  ],
+  "author": "Aditya Mukherjee",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
